@@ -1,0 +1,307 @@
+{
+  "meta": { "state": "AZ", "language": "en", "version": 1 },
+  "id": "az-en-2",
+  "title": "Driver's License Practice Test #2",
+  "questions": [
+    {
+      "id": "az-en-2-q001",
+      "text": "A sign with this shape means:",
+      "options": ["Yield right-of-way", "Speed and direction regulation", "Railroad crossing"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test2Q1.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q002",
+      "text": "A red painted curb means you may:",
+      "options": ["Stop to load or unload only", "Not stop, stand or park", "Stop to pick up or drop off passengers only"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q003",
+      "text": "A green lighted arrow on a traffic light means you may:",
+      "options": ["Proceed in the direction of the arrow after you have come to a complete stop", "Not proceed in the direction of the arrow", "Proceed in the direction of the arrow without stopping"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["signals"],
+      "explanation": "Signal indications control movement: a red arrow prohibits turning; flashing lights require stop or caution as posted."
+    },
+    {
+      "id": "az-en-2-q004",
+      "text": "A sign with this shape means:",
+      "options": ["Warning", "Railroad crossing", "Yield right-of-way"],
+      "correctIndex": 0,
+      "hasImage": true,
+      "imageName": "Test2Q4.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q005",
+      "text": "You are approaching an intersection where the lighted arrow has just changed to yellow:",
+      "options": ["You must stop and wait for the light to turn green", "You should slow down and turn with caution", "You may turn only if you can clear the intersection before the light changes to red"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["signals", "intersection"],
+      "explanation": "Signal indications control movement: a red arrow prohibits turning; flashing lights require stop or caution as posted."
+    },
+    {
+      "id": "az-en-2-q006",
+      "text": "Unless prohibited by a sign, a left turn on red is permitted:",
+      "options": ["Except in school zones", "From a two-way road to a one-way road", "From a one-way road to a one-way road"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["turning", "signs"],
+      "explanation": "Signal and position into the correct lane before turning; complete the turn into the proper lane unless posted otherwise."
+    },
+    {
+      "id": "az-en-2-q007",
+      "text": "This sign means:",
+      "options": ["Wrong Way", "U-turn is not permitted", "Left turn is not permitted"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test2Q7.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q008",
+      "text": "A broken yellow line in the middle of the road means:",
+      "options": ["No passing is permitted in either direction", "Passing is permitted in either direction", "School zone"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q009",
+      "text": "This sign means:",
+      "options": ["Pedestrians prohibited", "Pedestrian crossing", "School crossing"],
+      "correctIndex": 2,
+      "hasImage": true,
+      "imageName": "Test2Q9.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q010",
+      "text": "This sign means:",
+      "options": ["Divided highway ends", "Lane ends ahead", "Divided highway begins"],
+      "correctIndex": 0,
+      "hasImage": true,
+      "imageName": "Test2Q10.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q011",
+      "text": "A flashing red traffic light at an intersection means the:",
+      "options": ["Same as a Stop sign", "Light is about to turn green", "Same as a Stop light"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["signals", "intersection"],
+      "explanation": "Signal indications control movement: a red arrow prohibits turning; flashing lights require stop or caution as posted."
+    },
+    {
+      "id": "az-en-2-q012",
+      "text": "A sign with this shape means:",
+      "options": ["Speed and direction regulation", "Railroad warning", "Stop"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test2Q12.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q013",
+      "text": "A yellow line in the middle of the road means:",
+      "options": ["Two-way traffic", "School zone", "One-way traffic"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q014",
+      "text": "This sign means:",
+      "options": ["Road turns sharply to the left", "No left turn permitted", "Left lane must turn left"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test2Q14.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q015",
+      "text": "A broken yellow line alongside a solid yellow line in the middle of the road means:",
+      "options": ["You may pass if the solid line is on your side", "You may pass if the broken line is on your side", "No passing is permitted in either direction"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q016",
+      "text": "A sign with this shape means:",
+      "options": ["Stop", "Yield right-of-way", "Speed limit"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test2Q16.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q017",
+      "text": "This sign means:",
+      "options": ["Pedestrian crossing", "School crossing", "Construction workers ahead"],
+      "correctIndex": 0,
+      "hasImage": true,
+      "imageName": "Test2Q17.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q018",
+      "text": "You are approaching an intersection where the traffic light has just changed to yellow:",
+      "options": ["You should slow down and proceed with caution", "You must stop and wait for the light to change to green", "You may proceed only if you can clear the intersection before the light changes to red"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["intersection"],
+      "explanation": "Approach intersections ready to yield and scan; blocked views may require inching forward to see clearly."
+    },
+    {
+      "id": "az-en-2-q019",
+      "text": "This sign means:",
+      "options": ["Road turns sharply to the right", "No right turn permitted", "Left lane must turn right"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test2Q19.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q020",
+      "text": "This sign means:",
+      "options": ["Two lanes ahead", "Divided highway begins", "Two-way traffic"],
+      "correctIndex": 2,
+      "hasImage": true,
+      "imageName": "Test2Q20.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q021",
+      "text": "A broken white line in the middle of the road means:",
+      "options": ["Traffic on both sides is moving in the same direction", "No passing in either direction", "Traffic is moving in opposite directions"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q022",
+      "text": "This sign means:",
+      "options": ["Lane ends", "Traffic merging", "Left lane must go straight"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test2Q22.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q023",
+      "text": "A flashing red traffic light at an intersection means you must:",
+      "options": ["Stop and wait for the light to change to green", "Slow down, check for traffic, then proceed with caution", "Stop, check for traffic, then proceed with caution"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["signals", "intersection"],
+      "explanation": "Signal indications control movement: a red arrow prohibits turning; flashing lights require stop or caution as posted."
+    },
+    {
+      "id": "az-en-2-q024",
+      "text": "A sign with this shape means:",
+      "options": ["Right turn permitted on red", "No passing zone", "Railroad crossing"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test2Q24.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q025",
+      "text": "A sign with this shape means:",
+      "options": ["Railroad crossing", "Yield right-of-way", "Stop"],
+      "correctIndex": 2,
+      "hasImage": true,
+      "imageName": "Test2Q25.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q026",
+      "text": "A right turn on red is allowed:",
+      "options": ["Only where indicated by a sign", "Except where prohibited by a sign", "Only on a divided road"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["turning"],
+      "explanation": "Signal and position into the correct lane before turning; complete the turn into the proper lane unless posted otherwise."
+    },
+    {
+      "id": "az-en-2-q027",
+      "text": "A flashing yellow light at an intersection means you must:",
+      "options": ["Stop and wait for the light to change to green", "Stop, check for traffic, then proceed with caution", "Slow down, check for traffic, then proceed with caution"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["signals", "intersection"],
+      "explanation": "Signal indications control movement: a red arrow prohibits turning; flashing lights require stop or caution as posted."
+    },
+    {
+      "id": "az-en-2-q028",
+      "text": "This sign means:",
+      "options": ["You may turn left or go straight", "Merging traffic", "Divided highway"],
+      "correctIndex": 0,
+      "hasImage": true,
+      "imageName": "Test2Q28.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-2-q029",
+      "text": "A red lighted arrow on a traffic light means:",
+      "options": ["No turn permitted", "Stop, check for traffic and turn with caution", "Stop and wait for the arrow to change to green before turning"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["signals"],
+      "explanation": "Signal indications control movement: a red arrow prohibits turning; flashing lights require stop or caution as posted."
+    },
+    {
+      "id": "az-en-2-q030",
+      "text": "A double, solid yellow line in the middle of the road means:",
+      "options": ["You are permitted to pass", "No passing in either direction", "Curve ahead"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    }
+  ]
+}

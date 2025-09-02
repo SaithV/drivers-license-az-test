@@ -1,0 +1,207 @@
+{
+  "meta": { "state": "AZ", "language": "en", "version": 1 },
+  "id": "az-en-3",
+  "title": "Driver's License Practice Test #3",
+  "questions": [
+    {
+      "id": "az-en-3-q001",
+      "text": "When following a vehicle at night, lower your high beam headlights when you are within:",
+      "options": ["300 feet", "100 feet", "200 feet"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["lighting"],
+      "explanation": "Use low beams near traffic to avoid glare; dim high beams within the required distance of other road users."
+    },
+    {
+      "id": "az-en-3-q002",
+      "text": "When entering a freeway, you should not:",
+      "options": ["Use your turn signal", "Match the speed of the traffic in the right lane", "Cross a solid line"],
+      "correctIndex": 2,
+      "hasImage": true,
+      "imageName": "Test3Q2.jpg",
+      "tags": ["freeway"],
+      "explanation": "Match the speed of the right lane when merging and leave room for entering and exiting vehicles."
+    },
+    {
+      "id": "az-en-3-q003",
+      "text": "To avoid the glare from oncoming headlights:",
+      "options": ["Focus your eyes on the center line of the road", "Glance back and forth between the side of the road and straight ahead", "Focus your eyes on the side of the road"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["lighting"],
+      "explanation": "Use low beams near traffic to avoid glare; dim high beams within the required distance of other road users."
+    },
+    {
+      "id": "az-en-3-q004",
+      "text": "If your vehicle begins to hydroplane you should:",
+      "options": ["Release the accelerator", "Pull off the road immediately and slow down gradually", "Pump the brakes"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["lanes", "weather"],
+      "explanation": "Lane lines guide passing and lane use; broken lines permit passing when clear, solid lines typically prohibit it."
+    },
+    {
+      "id": "az-en-3-q005",
+      "text": "You should avoid the right lane of the freeway during rush hour:",
+      "options": ["To allow emergency vehicles to pass", "Because it is the most likely place for accidents", "To leave room for vehicles entering and exiting"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["freeway", "lanes"],
+      "explanation": "Match the speed of the right lane when merging and leave room for entering and exiting vehicles."
+    },
+    {
+      "id": "az-en-3-q006",
+      "text": "Switch to low beams when oncoming traffic is within:",
+      "options": ["750 feet", "300 feet", "500 feet"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["lighting"],
+      "explanation": "Use low beams near traffic to avoid glare; dim high beams within the required distance of other road users."
+    },
+    {
+      "id": "az-en-3-q007",
+      "text": "When driving on wet roads you should:",
+      "options": ["Reduce your speed", "Pump your brakes occasionally", "Switch to low beam headlights"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["weather"],
+      "explanation": "Reduce speed and make smooth inputs in rain, fog, or dust; hydroplaning risk rises as speed and water depth increase."
+    },
+    {
+      "id": "az-en-3-q008",
+      "text": "If you have a tire blowout:",
+      "options": ["Pump the brakes rapidly and pull off the road", "Do not brake, but slow down and pull off the road", "Turn the wheel in the direction of the skid"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-3-q009",
+      "text": "If you drive in fog, you should turn on the:",
+      "options": ["Low beam headlights", "Parking lights", "High beam headlights"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["turning", "weather"],
+      "explanation": "Signal and position into the correct lane before turning; complete the turn into the proper lane unless posted otherwise."
+    },
+    {
+      "id": "az-en-3-q010",
+      "text": "If you come upon a severe dust storm, you should:",
+      "options": ["Maintain your speed and don’t change lanes", "Turn on your headlights", "Reduce speed and pull off the road"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["weather"],
+      "explanation": "Reduce speed and make smooth inputs in rain, fog, or dust; hydroplaning risk rises as speed and water depth increase."
+    },
+    {
+      "id": "az-en-3-q011",
+      "text": "When you merge onto a freeway, you should be driving:",
+      "options": ["At the legal speed limit on the freeway", "At the same speed as the traffic in the right lane", "About 10 mph slower than the speed limit"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["freeway"],
+      "explanation": "Match the speed of the right lane when merging and leave room for entering and exiting vehicles."
+    },
+    {
+      "id": "az-en-3-q012",
+      "text": "The best way to bring your vehicle out of a skid is to:",
+      "options": ["Turn the wheel in the direction of the skid", "Turn the wheel away from the direction of the skid", "Pump the brakes"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-3-q013",
+      "text": "If you are in the black car, the most difficult car for you to see is:",
+      "options": ["Car 3", "Car 2", "Car 1"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test3Q13.jpg",
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-3-q014",
+      "text": "You should leave enough space between you and the vehicle directly in front of you:",
+      "options": ["To stay out of the other driver's blind spot", "So the other driver can see both your headlights in the rearview mirror", "To allow for a sudden stop"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-3-q015",
+      "text": "When changing lanes, check your side mirrors for other traffic and:",
+      "options": ["Slow down by at least one third", "Check the inside rearview mirror", "Turn your head quickly and look over your shoulder"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["lanes"],
+      "explanation": "Lane lines guide passing and lane use; broken lines permit passing when clear, solid lines typically prohibit it."
+    },
+    {
+      "id": "az-en-3-q016",
+      "text": "To keep aware of the position of traffic behind you, it is best to:",
+      "options": ["Turn your head and look out the rear window", "Check your rearview mirror often", "Create a space cushion around you"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-3-q017",
+      "text": "The driver of this vehicle has a \"blind spot\" in:",
+      "options": ["Areas 1 and 3", "Area 2", "Areas 1 and 2"],
+      "correctIndex": 0,
+      "hasImage": true,
+      "imageName": "Test3Q17.jpg",
+      "tags": ["visibility"],
+      "explanation": "Every vehicle has blind spots; check mirrors and look over your shoulder before changing lanes."
+    },
+    {
+      "id": "az-en-3-q018",
+      "text": "Normally, the distance from you to the vehicle ahead should be at least equivalent to:",
+      "options": ["5 seconds", "3 seconds", "2 seconds"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-3-q019",
+      "text": "If you come to an intersection and your view to the side is blocked, you should:",
+      "options": ["Stop, then inch forward until you can see clearly in both directions", "Maintain speed and look both ways", "Slow down and look both ways"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["intersection"],
+      "explanation": "Approach intersections ready to yield and scan; blocked views may require inching forward to see clearly."
+    },
+    {
+      "id": "az-en-3-q020",
+      "text": "You are required by law to notify the Motor Vehicle Division of a change of address within:",
+      "options": ["10 days", "30 days", "6 months"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    }
+  ]
+}

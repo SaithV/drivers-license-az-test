@@ -1,0 +1,361 @@
+{
+  "meta": { "state": "AZ", "language": "en", "version": 1 },
+  "id": "az-en-1",
+  "title": "Driver's License Practice Test #1",
+  "questions": [
+    {
+      "id": "az-en-1-q001",
+      "text": "The speed limit approaching a school crosswalk is:",
+      "options": ["15 mph", "20 mph", "25 mph"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["school zone", "crosswalk", "speed"],
+      "explanation": "School crosswalk areas require lower speeds to protect pedestrians; 15 mph is a common default unless signs state otherwise."
+    },
+    {
+      "id": "az-en-1-q002",
+      "text": "A school bus is stopped on a four-lane road with its stop-sign arm extended, you must:",
+      "options": ["Slow down and proceed with caution", "Stop if you are moving in the same direction of travel", "Stop regardless of your direction of travel"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["school zone", "school bus", "lanes", "signs"],
+      "explanation": "School crosswalk areas require lower speeds to protect pedestrians; 15 mph is a common default unless signs state otherwise."
+    },
+    {
+      "id": "az-en-1-q003",
+      "text": "All arrived at an uncontrolled intersection at the same time. Which has the right-of-way?:",
+      "options": ["Car 2", "Car 1", "Car 3"],
+      "correctIndex": 2,
+      "hasImage": true,
+      "imageName": "Test1Q3.jpg",
+      "tags": ["right-of-way", "intersection"],
+      "explanation": "Right-of-way rules help prevent conflicts; yield based on position and direction to keep intersections orderly."
+    },
+    {
+      "id": "az-en-1-q004",
+      "text": "When you see or hear an emergency vehicle approaching:",
+      "options": ["Immediately drive to the right side of the road and stop", "Slow down and permit the emergency vehicle to pass", "Remain alert and stay to the right"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["freeway", "emergency"],
+      "explanation": "Match the speed of the right lane when merging and leave room for entering and exiting vehicles."
+    },
+    {
+      "id": "az-en-1-q005",
+      "text": "This hand signal means:",
+      "options": ["Right turn", "Stopping or slowing", "Left turn"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test1Q5.jpg",
+      "tags": ["hand signals", "signs"],
+      "explanation": "Hand signals communicate intent when electrical signals fail: up=right, straight=left, down=slow/stop."
+    },
+    {
+      "id": "az-en-1-q006",
+      "text": "You should give the right-of-way to any pedestrian who is:",
+      "options": ["In a marked crosswalk", "Crossing any street", "In any crosswalk or intersection"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["right-of-way", "pedestrians"],
+      "explanation": "Right-of-way rules help prevent conflicts; yield based on position and direction to keep intersections orderly."
+    },
+    {
+      "id": "az-en-1-q007",
+      "text": "When driving on wet roads you should:",
+      "options": ["Reduce your speed", "Pump your brakes occasionally", "Switch to low beam headlights"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["weather"],
+      "explanation": "Reduce speed and make smooth inputs in rain, fog, or dust; hydroplaning risk rises as speed and water depth increase."
+    },
+    {
+      "id": "az-en-1-q008",
+      "text": "Before entering a road from an alley or driveway, you must:",
+      "options": ["Flash your high beam headlights", "Sound your horn", "Stop before reaching the sidewalk"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-1-q009",
+      "text": "When backing, you should:",
+      "options": ["Look in your inside rearview mirror", "Turn and look out the rear window", "Turn and look out the driver window"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-1-q010",
+      "text": "The car that made a correct turn was:",
+      "options": ["Car 2", "Car 1", "Car 3"],
+      "correctIndex": 2,
+      "hasImage": true,
+      "imageName": "Test1Q10.jpg",
+      "tags": ["turning"],
+      "explanation": "Signal and position into the correct lane before turning; complete the turn into the proper lane unless posted otherwise."
+    },
+    {
+      "id": "az-en-1-q011",
+      "text": "If you are parking uphill and there is a curb, you should:",
+      "options": ["Turn your wheels to the right, toward the curb", "Keep your wheels straight ahead", "Turn your wheels to the left, away from the curb"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["parking"],
+      "explanation": "Wheel direction and set-back distances reduce roll-away risk and keep access clear near hydrants and crosswalks."
+    },
+    {
+      "id": "az-en-1-q012",
+      "text": "When no speed limit is posted, the maximum speed in a business or residential area is:",
+      "options": ["30 mph", "25 mph", "35 mph"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["school bus", "speed"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-1-q013",
+      "text": "When driving a vehicle, you may:",
+      "options": ["Talk to more than one passenger in the vehicle", "Write or read any text-based communication", "Watch, record or broadcast video"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-1-q014",
+      "text": "If you intend to turn beyond an intersection, you should:",
+      "options": ["Wait to signal your turn until you are in the intersection", "Signal your turn as you approach the intersection", "Use a hand signal"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["turning", "intersection"],
+      "explanation": "Signal and position into the correct lane before turning; complete the turn into the proper lane unless posted otherwise."
+    },
+    {
+      "id": "az-en-1-q015",
+      "text": "It is illegal to follow fire vehicles traveling in response to an alarm, within:",
+      "options": ["500 feet", "200 feet", "300 feet"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["emergency"],
+      "explanation": "Yield to emergency vehicles with lights or sirens by moving right and stopping until they pass."
+    },
+    {
+      "id": "az-en-1-q016",
+      "text": "If you approach a school bus that is picking up or dropping off children, you must:",
+      "options": ["Stop and then proceed with caution", "Stop until the bus is moving or the stop sign arm is no longer extended", "Slow and yield the right-of-way to all pedestrians"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test1Q16.jpg",
+      "tags": ["school zone", "school bus"],
+      "explanation": "School crosswalk areas require lower speeds to protect pedestrians; 15 mph is a common default unless signs state otherwise."
+    },
+    {
+      "id": "az-en-1-q017",
+      "text": "This hand signal means:",
+      "options": ["Right turn", "Stopping or slowing down", "Left turn"],
+      "correctIndex": 2,
+      "hasImage": true,
+      "imageName": "Test1Q17.jpg",
+      "tags": ["hand signals", "signs"],
+      "explanation": "Hand signals communicate intent when electrical signals fail: up=right, straight=left, down=slow/stop."
+    },
+    {
+      "id": "az-en-1-q018",
+      "text": "It is safe to return to your lane after passing when:",
+      "options": ["You can see both headlights of the vehicle in your inside rearview mirror", "The driver you just passed signals you over", "When you can see the driver in your side mirror"],
+      "correctIndex": 0,
+      "hasImage": true,
+      "imageName": "Test1Q18.jpg",
+      "tags": ["turning", "lanes"],
+      "explanation": "Signal and position into the correct lane before turning; complete the turn into the proper lane unless posted otherwise."
+    },
+    {
+      "id": "az-en-1-q019",
+      "text": "If you are parking downhill, you should:",
+      "options": ["Keep your wheels straight ahead", "Turn your wheels to the left, away from the edge of the road", "Turn your wheels to the right, toward the edge of the road"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["parking"],
+      "explanation": "Wheel direction and set-back distances reduce roll-away risk and keep access clear near hydrants and crosswalks."
+    },
+    {
+      "id": "az-en-1-q020",
+      "text": "Before you make a turn, use your turn signals:",
+      "options": ["For at least 500 feet", "For at least 4 seconds", "Only when other vehicles can be seen on the road"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["turning", "signs"],
+      "explanation": "Signal and position into the correct lane before turning; complete the turn into the proper lane unless posted otherwise."
+    },
+    {
+      "id": "az-en-1-q021",
+      "text": "It is illegal to park if a crosswalk is within:",
+      "options": ["20 feet", "10 feet", "15 feet"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["crosswalk", "parking"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-1-q022",
+      "text": "Before you turn, you must signal continuously for at least:",
+      "options": ["50 feet", "100 feet", "75 feet"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["turning", "signs"],
+      "explanation": "Signal and position into the correct lane before turning; complete the turn into the proper lane unless posted otherwise."
+    },
+    {
+      "id": "az-en-1-q023",
+      "text": "This hand signal means:",
+      "options": ["Stopping or slowing down", "Left turn", "Right turn"],
+      "correctIndex": 2,
+      "hasImage": true,
+      "imageName": "Test1Q23.jpg",
+      "tags": ["hand signals", "signs"],
+      "explanation": "Hand signals communicate intent when electrical signals fail: up=right, straight=left, down=slow/stop."
+    },
+    {
+      "id": "az-en-1-q024",
+      "text": "The wheelchair symbol in a parking space means that it is reserved for disabled persons:",
+      "options": ["But may be used by any driver if no other space is available", "But may be used by any driver for loading and unloading", "With no exceptions"],
+      "correctIndex": 2,
+      "hasImage": true,
+      "imageName": "Test1Q24.jpg",
+      "tags": ["parking"],
+      "explanation": "Wheel direction and set-back distances reduce roll-away risk and keep access clear near hydrants and crosswalks."
+    },
+    {
+      "id": "az-en-1-q025",
+      "text": "The white car will turn left. The black car will go straight. Which has the right-of-way?:",
+      "options": ["Black car", "White car", "Neither car"],
+      "correctIndex": 0,
+      "hasImage": true,
+      "imageName": "Test1Q25.jpg",
+      "tags": ["right-of-way", "turning"],
+      "explanation": "Right-of-way rules help prevent conflicts; yield based on position and direction to keep intersections orderly."
+    },
+    {
+      "id": "az-en-1-q026",
+      "text": "To make a left turn, you should turn into:",
+      "options": ["Lane 1", "Lane 2", "Either lane 1 or lane 2"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test1Q26.jpg",
+      "tags": ["turning"],
+      "explanation": "Signal and position into the correct lane before turning; complete the turn into the proper lane unless posted otherwise."
+    },
+    {
+      "id": "az-en-1-q027",
+      "text": "It is illegal to park if a fire hydrant is within:",
+      "options": ["15 feet", "5 feet", "10 feet"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["parking", "emergency"],
+      "explanation": "Wheel direction and set-back distances reduce roll-away risk and keep access clear near hydrants and crosswalks."
+    },
+    {
+      "id": "az-en-1-q028",
+      "text": "A school bus with flashing lights has stopped on a divided highway. Who must stop?:",
+      "options": ["Cars 1 and 2", "Car 1 only", "Cars 2 and 3"],
+      "correctIndex": 2,
+      "hasImage": true,
+      "imageName": "Test1Q28.jpg",
+      "tags": ["school zone", "school bus", "signals", "divided highway"],
+      "explanation": "School crosswalk areas require lower speeds to protect pedestrians; 15 mph is a common default unless signs state otherwise."
+    },
+    {
+      "id": "az-en-1-q029",
+      "text": "If you are parking uphill and there is no curb, you should:",
+      "options": ["Turn your wheels to the right, toward the edge of the road", "Turn your wheels to the left, away from the edge of the road", "Keep your wheels straight ahead"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["parking"],
+      "explanation": "Wheel direction and set-back distances reduce roll-away risk and keep access clear near hydrants and crosswalks."
+    },
+    {
+      "id": "az-en-1-q030",
+      "text": "This sign means:",
+      "options": ["Curves ahead", "Slippery when wet", "Hill ahead"],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "Test1Q30.jpg",
+      "tags": ["signs"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    },
+    {
+      "id": "az-en-1-q031",
+      "text": "When observing law enforcement lights and/or sirens activated behind you, drivers should:",
+      "options": ["Immediately yield to the right side of the roadway", "Accelerate", "Brake immediately"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["traffic stop"],
+      "explanation": "During traffic stops, slow, pull right, and keep hands visible; follow instructions for everyone’s safety."
+    },
+    {
+      "id": "az-en-1-q032",
+      "text": "When stopped by law enforcement, drivers should:",
+      "options": ["Put the car in park and remain in the vehicle", "Keep your seatbelt fastened and hands on the steering wheel in a visible location", "All of the above"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["traffic stop"],
+      "explanation": "During traffic stops, slow, pull right, and keep hands visible; follow instructions for everyone’s safety."
+    },
+    {
+      "id": "az-en-1-q033",
+      "text": "When stopped by law enforcement, if there is a firearm in the vehicle, the driver should:",
+      "options": ["Keep your hands on the steering wheel in a visible location", "If requested, let the officer know that you have a firearm in the vehicle and where the firearm is located.", "All of the above"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["traffic stop", "emergency"],
+      "explanation": "During traffic stops, slow, pull right, and keep hands visible; follow instructions for everyone’s safety."
+    },
+    {
+      "id": "az-en-1-q034",
+      "text": "Signing for or accepting a citation from a law enforcement officer:",
+      "options": ["Is not an admission of guilt or responsibility", "Is a promise to appear in the case of a criminal violation", "All of the above"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["traffic stop", "signs"],
+      "explanation": "During traffic stops, slow, pull right, and keep hands visible; follow instructions for everyone’s safety."
+    },
+    {
+      "id": "az-en-1-q035",
+      "text": "What do you do after a non-injury, fender bender collision?",
+      "options": [
+        "A driver involved in a minor crash without injuries, should remove the vehicle from the roadway (Quick Clearance) if it is operable and can be moved safely.",
+        "Stay put and wait for emergency responders.",
+        "Immediately check your car for damage."
+      ],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null,
+      "tags": ["general"],
+      "explanation": "Follow posted signs and standard right-of-way, signaling, and safety practices for predictable driving."
+    }
+  ]
+}
