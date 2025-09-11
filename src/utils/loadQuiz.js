@@ -1,4 +1,8 @@
-const quizModules = import.meta.glob('../data/en/az/car/*.json', { eager: true, import: 'default' })
+// Eagerly import quizzes in both English and Spanish
+const quizModules = {
+  ...import.meta.glob('../data/en/az/car/*.json', { eager: true, import: 'default' }),
+  ...import.meta.glob('../data/es/az/car/*.json', { eager: true, import: 'default' }),
+}
 
 // path is a simple key like 'test1_en'
 export async function loadQuiz(path){

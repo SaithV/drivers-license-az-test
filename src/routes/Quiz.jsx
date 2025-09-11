@@ -145,9 +145,20 @@ export default function Quiz(){
 const imgModules = import.meta.glob('../assets/**/*.{png,jpg,jpeg,svg,gif}', { eager: true, import: 'default' })
 
 function resolveImage(name){
-  // Attempt to find by file name anywhere under assets
-  const found = Object.entries(imgModules).find(([k])=> k.endsWith('/'+name))
-  if(found) return found[1]
-  // fallback generic path
+  // Try direct match first
+  const tryCandidates = [name]
+  // If Spanish file naming like ES1Q10.jpg, fall back to Test1Q10.jpg (English assets)
+  const m = /^ES(\d)Q(\d+)\.(png|jpg|jpeg|svg|gif)$/i.exec(name || '')
+  if(m){
+    const test = m[1]
+    const q = m[2]
+    const ext = m[3]
+    tryCandidates.push(`Test${test}Q${q}.${ext}`)
+  }
+  for(const candidate of tryCandidates){
+    const found = Object.entries(imgModules).find(([k])=> k.endsWith('/'+candidate))
+    if(found) return found[1]
+  }
+  // fallback generic path (may 404; UI hides broken img)
   return new URL(`../assets/${name}`, import.meta.url).href
 }

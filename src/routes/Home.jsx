@@ -5,6 +5,8 @@ const tests = [
   { label: 'Test 1 (EN)', path: 'test1_en' },
   { label: 'Test 2 (EN)', path: 'test2_en' },
   { label: 'Test 3 (EN)', path: 'test3_en' },
+  { label: 'Test 1 (ES)', path: 'test1_es' },
+  { label: 'Test 2 (ES)', path: 'test2_es' },
 ]
 
 export default function Home(){

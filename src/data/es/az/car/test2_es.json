@@ -1,0 +1,119 @@
+{
+  "meta": { "state": "AZ", "language": "es", "version": 1 },
+  "id": "az-es-2",
+  "title": "Examen de Práctica de Licencia de Conducir #2 (ES)",
+  "questions": [
+    {
+      "id": "az-es-2-q001",
+      "text": "Debe ceder el paso a todo peatón que está:",
+      "options": [
+        "En un cruce de peatones marcado",
+        "En todo cruce de peatones o intersección",
+        "Cruzando cualquier calle"
+      ],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-2-q002",
+      "text": "Antes de entrar a un camino desde un callejón o estacionamiento privado de carros, usted debe:",
+      "options": [
+        "Parar antes de llegar a la acera",
+        "Tocar la bocina",
+        "La velocidad límite es de 15 mph"
+      ],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-2-q003",
+      "text": "Es ilegal seguir vehículos de bomberos viajando en respuesta a una llamada de emergencia, a una distancia menor de:",
+      "options": ["200 pies", "500 pies", "De 3 a 6 segundos"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-2-q004",
+      "text": "Para estar consciente de la posición del tráfico atrás de usted, es mejor:",
+      "options": [
+        "Mirar por el espejo retrovisor frecuentemente",
+        "Mirar por la ventana de atrás",
+        "Mantener a los otros vehículos fuera de sus áreas ciegas"
+      ],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-2-q005",
+      "text": "Si es menor de 21 años, su licencia puede ser suspendida si la concentración de alcohol en su sangre es de:",
+      "options": ["0.15% o más", "0.08% o más", "Cualquier cantidad"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-2-q006",
+      "text": "Para evitar el resplandor de las luces de un vehículo en sentido contrario al suyo:",
+      "options": [
+        "Enfoque sus ojos al lado del camino",
+        "Enfoque sus ojos en la línea del centro del camino",
+        "Cambie las luces altas"
+      ],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-2-q007",
+      "text": "Si se encuentra en una tormenta de polvo, usted debe:",
+      "options": [
+        "Disminuir la velocidad y salirse del camino",
+        "Prender las luces altas",
+        "Mantener su velocidad y no cambiar de carriles"
+      ],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-2-q008",
+      "text": "Se permite dar vuelta a la derecha cuando el semáforo está en luz roja:",
+      "options": [
+        "Sólo cuando lo indica una señal",
+        "Excepto cuando se prohíbe por medio de una señal",
+        "Sólo en un camino dividido"
+      ],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-2-q009",
+      "text": "Se acerca a una intersección en la que la luz del semáforo acaba de cambiar a amarillo:",
+      "options": [
+        "Debe proceder con precaución",
+        "Debe quitarse de la intersección antes de que la luz cambie a rojo",
+        "Debe parar y esperar a que la luz cambie a verde"
+      ],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-2-q010",
+      "text": "Una señal con esta forma significa:",
+      "options": [
+        "Cruce de ferrocarril",
+        "Advertencia",
+        "Señalamiento adelante"
+      ],
+      "correctIndex": 1,
+      "hasImage": true,
+      "imageName": "ES2Q10.jpg"
+    }
+  ]
+}

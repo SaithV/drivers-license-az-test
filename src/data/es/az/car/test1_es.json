@@ -1,0 +1,115 @@
+{
+  "meta": { "state": "AZ", "language": "es", "version": 1 },
+  "id": "az-es-1",
+  "title": "Examen de Práctica de Licencia de Conducir #1 (ES)",
+  "questions": [
+    {
+      "id": "az-es-1-q001",
+      "text": "Un autobús escolar está recogiendo o bajando niños, usted debe:",
+      "options": [
+        "Parar sin importar cuál sea la dirección que usted lleva",
+        "Parar si lleva usted la misma dirección",
+        "Disminuir la velocidad y prepararse para parar"
+      ],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-1-q002",
+      "text": "Si una tormenta de polvo se aproxima o se encuentra en medio de una mientras conduce, usted debería:",
+      "options": [
+        "Tener cuidado y conducir a través de ella, ya que normalmente las tormentas de polvo no duran demasiado tiempo",
+        "Reducir la velocidad, con cuidado salirse completamente del camino, apagar las luces de vehículo, quitar el pie del pedal del freno y esperar a que la tormenta pase",
+        "Reducir la velocidad, con cuidado salirse completamente del camino, prender las luces del vehículo y esperar a que la tormenta pase"
+      ],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-1-q003",
+      "text": "La velocidad máxima al acercase a un cruce de peatones en una zona escolar es:",
+      "options": ["10 mph", "15 mph", "25 mph"],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-1-q004",
+      "text": "Usted debe notificar a MVD el cambio de su domicilio en un plazo de:",
+      "options": ["10 días", "30 días", "45 días"],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-1-q005",
+      "text": "Los ciclistas:",
+      "options": [
+        "Deben ir de cara hacia el tráfico",
+        "Deben permanecer al lado derecho del carril",
+        "Deben obedecer las mismas leyes de tránsito que obedecen los automovilistas"
+      ],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-1-q006",
+      "text": "Al cambiar de carriles:",
+      "options": [
+        "Mire sobre su hombro para estar seguro de que el carril está despejado",
+        "Mire en el espejo retrovisor interior",
+        "Disminuya la velocidad"
+      ],
+      "correctIndex": 0,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-1-q007",
+      "text": "Al conducir de noche detrás de un vehículo, baje las luces altas al encontrarse a una distancia de:",
+      "options": ["500 pies", "100 pies", "200 pies"],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-1-q008",
+      "text": "Si está conduciendo y necesita usar el celular para enviar mensaje de texto, usted debería:",
+      "options": [
+        "Usar la función de voz del teléfono y no mirar hacia abajo para escribir el mensaje",
+        "Reducir la velocidad y mantenerse en la orilla del carril",
+        "Salirse del camino de manera segura y detenerse."
+      ],
+      "correctIndex": 2,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-1-q009",
+      "text": "Si no está prohíbido por una señal, usted puede dar vuelta a la izquierda cuando la luz está en rojo:",
+      "options": [
+        "De un camino de circulación de doble sentido a uno de un sólo sentido",
+        "De un camino de un sólo sentido a otro de un sólo sentido",
+        "Excepto en zonas escolares"
+      ],
+      "correctIndex": 1,
+      "hasImage": false,
+      "imageName": null
+    },
+    {
+      "id": "az-es-1-q010",
+      "text": "Una señal con esta forma significa:",
+      "options": [
+        "Zona de no rebasar",
+        "Se permite dar vuelta en luz roja",
+        "Ceda el paso"
+      ],
+      "correctIndex": 0,
+      "hasImage": true,
+      "imageName": "ES1Q10.jpg"
+    }
+  ]
+}
