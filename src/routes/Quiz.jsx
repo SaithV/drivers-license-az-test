@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { loadQuiz } from '../utils/loadQuiz'
+import { playSfx } from '../utils/sfx'
 import AnswerButton from '../components/AnswerButton'
 import ProgressBar from '../components/ProgressBar'
 import Timer from '../components/Timer'
@@ -61,9 +62,8 @@ export default function Quiz(){
     }
     setAnswers(newAnswers)
     localStorage.setItem('az_quiz_last_index', String(index))
-    if(isCorrect) {
-      // optional: positive haptic if supported
-    }
+  // Sound effect
+  playSfx(isCorrect ? 'correct' : 'fail')
     advanceTimeout.current = setTimeout(()=>{
       goNext()
     }, AUTO_ADVANCE_MS)

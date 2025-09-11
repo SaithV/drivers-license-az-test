@@ -1,6 +1,8 @@
 import { useLocation, useNavigate } from 'react-router-dom'
 import { computeScore } from '../utils/score'
 import TopBar from '../components/TopBar'
+import { useEffect } from 'react'
+import { playSfx } from '../utils/sfx'
 
 export default function Results(){
   const { state } = useLocation()
@@ -16,6 +18,14 @@ export default function Results(){
       navigate('/')
     }
   }
+
+  // Play final result sound once on mount
+  useEffect(()=>{
+    if(pct >= 80) playSfx('success')
+    else playSfx('wrong')
+    // Only on first render
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  },[])
 
   return (
     <div className="flex flex-col flex-1">
