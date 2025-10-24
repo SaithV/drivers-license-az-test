@@ -1,12 +1,35 @@
-# React + Vite
+🛣️ Arizona Driver’s License Practice Tests
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive web project designed to help people prepare for the Arizona MVD written test.
+This bilingual website (English & Spanish) offers the same questions found on the official MVD site — but presented in a more interactive, visual, and accessible way.
 
-Currently, two official plugins are available:
+🌐 Live Demo: https://saithvega.github.io/arizona-driver-license
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚗 Overview
 
-## Expanding the ESLint configuration
+This project was created to support new drivers and Spanish speakers studying for the Arizona driver’s license exam.
+It provides an engaging way to practice through:
+	•	🔊 Sound effects and animations that make studying less stressful.
+	•	🖼️ Images and visual cues to reinforce learning.
+	•	🌎 English and Spanish versions for better accessibility.
+	•	💡 Simple and intuitive design optimized for all devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I built this project with the goal of making driver’s license preparation more interactive and human, especially for bilingual learners in Arizona.
+
+
+🧠 Built With
+	•	HTML5, CSS3, JavaScript
+	•	GitHub Pages for hosting
+	•	Q&A inspired by the Arizona MVD
+
+
+👨‍💻 Author
+
+Developed by: Saith Vega Cisneros
+📍 Nogales, AZ / Sonora, MX
+
+
+📜 License
+
+This project is open-source and intended for educational purposes.
+Feel free to share it and help others learn safely! 🚦
