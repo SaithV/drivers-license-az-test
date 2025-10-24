@@ -3,7 +3,7 @@
 Interactive web project designed to help people prepare for the Arizona MVD written test.
 This bilingual website (English & Spanish) offers the same questions found on the official MVD site — but presented in a more interactive, visual, and accessible way.
 
-🌐 Live Demo: https://saithvega.github.io/arizona-driver-license
+🌐 Live Demo: https://saithv.github.io/drivers-license-az-test/
 
 🚗 Overview
 
